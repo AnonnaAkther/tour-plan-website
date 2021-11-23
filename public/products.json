@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Adventour",
+        "description":"Our tour operator booking software comes with a full range of features that help you take bookings, manage your resources, and grow your tour operator business — whether you offer food tours, ghost walks, guided hikes, or anything else.",
+        "img":"https://i.ibb.co/j5N7PvM/products1-webp.jpg"
+        },
+        {
+            "name":"Wander Rush",
+            "description":"Give your guests the freedom to book in their time zone. Integrate Checkfront with your tour website for an online booking process that matches your brand.",
+            "img":"https://i.ibb.co/5R2Cy1R/products2-webp.jpg"
+            },
+            {
+                "name":"Hop-on, Hop-off",
+                "description":"Take your business wherever you go. Our tour operator app lets you manage your inventory, track sales, and accept payments from the palm of your hand.",
+                "img":"https://i.ibb.co/yYY6vXy/products3-jpg.jpg"
+                },
+                {
+                    "name":"The LandMark Tour",
+                    "description":"Reduce your workload with our suite of tour booking software features — including channel management, sales reporting, automated notifications, and more.",
+                    "img":"https://i.ibb.co/YWWGnR0/products4-png.webp"
+                    },
+                    {
+                        "name":"Green Escapes",
+                        "description":"Granular reports on traffic, referrals, and promotion Customized sales report Simplified cash out with end of day reports",
+                        "img":"https://i.ibb.co/ZBKtXQn/products5-webp.jpg"
+                        },
+                        {
+                            "name":"City Sightseeing",
+                            "description":"Take your business wherever you go. Our tour operator app lets you manage your inventory, track sales, and accept payments from the palm of your hand.",
+                           "img":"https://i.ibb.co/T1GTZNJ/products6-png.jpg"
+                }
+]
