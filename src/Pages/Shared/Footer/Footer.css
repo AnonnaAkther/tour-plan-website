@@ -1,6 +1,7 @@
 .footer{
     display: flex;
    margin-left: 50%;
+   margin-top: 50px;
 }
 .footer img{
     height: 50px;
