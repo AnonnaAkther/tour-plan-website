@@ -1,18 +1,18 @@
 import React, { useEffect, useState } from "react";
 import Product from "../Product/Product";
-import './products.css';
+import './MainOfferings.css';
 
 
-const Products = () => {
+const MainOfferings = () => {
     const [products, setProducts] = useState([])
     useEffect(()=>{
-        fetch('./products.json')
+        fetch('http://localhost:5000/tour')
         .then(res => res.json())
         .then(data => setProducts(data));
     },[])
     return (
-        <div>
-            <h1 className="text-warning">__Our Tourism__</h1>
+        <div id="tourism">
+            <h1 className="text-warning mt-5">__Our MainOffer__</h1>
             <div className="product-container">
            {
                products.map(product => <Product
@@ -24,4 +24,4 @@ const Products = () => {
     );
 };
 
-export default Products;
+export default MainOfferings;

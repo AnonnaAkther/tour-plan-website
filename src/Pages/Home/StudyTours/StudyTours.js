@@ -37,7 +37,7 @@ const studies = [
 
 const StudyTours = () => {
     return (
-        <div>
+        <div id="studyTour">
         <h3 className="text-primary study">Our Study Tour Programm</h3>
         {
             studies.map(study => <StudyTour

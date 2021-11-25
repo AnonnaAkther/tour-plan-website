@@ -49,8 +49,8 @@ const specials = [
 
 const LatestProducts = () => {
     return (
-        <div>
-            <h2 className="text-success">Our Latest Tour Place</h2>
+        <div id="latestProducts">
+            <h2 className="text-success mt-5">Our Latest Tour Place</h2>
             <div>
                 {
                     specials.map(special => <LatestProduct
