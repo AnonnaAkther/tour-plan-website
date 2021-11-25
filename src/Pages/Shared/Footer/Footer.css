@@ -1,0 +1,8 @@
+.footer{
+    display: flex;
+   margin-left: 50%;
+}
+.footer img{
+    height: 50px;
+    width: 50px;
+}
